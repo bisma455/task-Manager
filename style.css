@@ -1,0 +1,76 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f6f3ff;
+    color: #333;
+}
+
+.bg-gradient-short {
+    background: linear-gradient(135deg, #a044ff, #6a3093);
+    color: #fff;
+    height: 50vh;
+}
+
+.text-purple {
+    color: #6a3093;
+}
+
+.bg-purple {
+    background-color: #6a3093;
+}
+
+.bg-purple-light {
+    background: #e0ccff;
+}
+
+.btn-purple {
+    background-color: #6a3093;
+    color: #fff;
+    font-weight: bold;
+}
+
+.stat-box {
+    border-radius: 15px;
+    padding: 20px;
+    font-size: 1.3rem;
+    box-shadow: 0 5px 15px rgba(106, 48, 147, 0.2);
+}
+
+.list-group-item {
+    border: none;
+    border-radius: 10px;
+}
+
+.btn-light {
+    background-color: #fff;
+    color: #333;
+    font-weight: bold;
+}
+
+.bg-purple-gradient {
+    background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%);
+    backdrop-filter: blur(8px);
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+
+.nav-link {
+    transition: all 0.3s ease-in-out;
+}
+.nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #fff !important;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+}
+
+
+.navbar-brand i {
+    margin-right: 8px;
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+
+.navbar-toggler {
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+}
