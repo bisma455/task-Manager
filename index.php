@@ -17,7 +17,7 @@ $total = count($tasks);
     <meta charset="UTF-8">
     <title>Task Manager - Purple Theme</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="style.css">
     <style>
         html {
             scroll-behavior: smooth;
@@ -159,6 +159,6 @@ $total = count($tasks);
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-<script src="assets/script.js"></script>
+<script src="script.js"></script>
 </body>
 </html>
